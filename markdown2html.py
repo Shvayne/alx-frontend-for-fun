@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """
 Script to convert Markdown to HTML with support for headings, unordered lists, ordered lists, paragraphs, bold text,
 and special syntax for MD5 and character removal.
